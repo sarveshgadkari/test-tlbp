@@ -176,7 +176,7 @@ $nav = @'
           <li><a href="projects.html" class="nav-link">Projects</a></li>
           <li><a href="advisory.html" class="nav-link">Advisory</a></li>
           <li><a href="sustainability.html" class="nav-link">Sustainability</a></li>
-          <li><a href="investor.html" class="nav-link">Investors</a></li>
+          <li><a href="funding.html" class="nav-link">Funding Relations</a></li>
           <li><a href="media.html" class="nav-link">Media</a></li>
           <li><a href="careers.html" class="nav-link">Careers</a></li>
           <li><a href="insights.html" class="nav-link">Insights</a></li>
@@ -216,7 +216,7 @@ $footer = @'
         <div class="footer-col">
           <h4 class="footer-col-title">Engage</h4>
           <ul class="footer-links">
-            <li><a href="investor.html">Investor Relations</a></li>
+            <li><a href="funding.html">Funding Relations &amp; Financing Support for Construction and Building Projects</a></li>
             <li><a href="media.html">Media</a></li>
             <li><a href="careers.html">Careers</a></li>
             <li><a href="insights.html">Insights</a></li>
@@ -242,7 +242,7 @@ $pages = @{
   'projects' = 'projects.html'
   'advisory' = 'advisory.html'
   'sustainability' = 'sustainability.html'
-  'investor' = 'investor.html'
+  'funding' = 'funding.html'
   'leadership' = 'leadership.html'
   'media' = 'media.html'
   'careers' = 'careers.html'

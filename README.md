@@ -5,7 +5,7 @@ Static site rebuilt with **TLBISBIG** colours, fonts, and footer structure. Cont
 ## Pages
 
 - `index.html`, `about.html`, `projects.html`, `advisory.html`, `sustainability.html`
-- `investor.html`, `leadership.html`, `media.html`, `careers.html`, `insights.html`, `contact.html`
+- `funding.html`, `leadership.html`, `media.html`, `careers.html`, `insights.html`, `contact.html`
 
 ## Assets
 
